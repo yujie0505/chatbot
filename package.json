@@ -2,6 +2,9 @@
   "name": "chatbot",
   "module": "index.ts",
   "type": "module",
+  "scripts": {
+    "chat": "bun index.ts"
+  },
   "devDependencies": {
     "bun-types": "latest"
   },
